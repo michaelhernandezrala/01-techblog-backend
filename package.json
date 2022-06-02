@@ -2,9 +2,16 @@
   "name": "01-techblog-backend",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app/app.js"
+>>>>>>> a481870f949ea2d15e0d028c6137da6c88cedc67
   },
   "repository": {
     "type": "git",
@@ -16,5 +23,23 @@
   "bugs": {
     "url": "https://github.com/michaeladrianhernandezrala/01-techblog-backend/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/michaeladrianhernandezrala/01-techblog-backend#readme"
+=======
+  "homepage": "https://github.com/michaeladrianhernandezrala/01-techblog-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-openapi-validator": "^4.13.8",
+    "helmet": "^5.1.0",
+    "install": "^0.13.0",
+    "npm": "^8.12.0",
+    "swagger-ui-express": "^4.4.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+>>>>>>> a481870f949ea2d15e0d028c6137da6c88cedc67
 }
