@@ -1,0 +1,20 @@
+{
+  "name": "01-techblog-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeladrianhernandezrala/01-techblog-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeladrianhernandezrala/01-techblog-backend/issues"
+  },
+  "homepage": "https://github.com/michaeladrianhernandezrala/01-techblog-backend#readme"
+}
